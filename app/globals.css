@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body{
+
+    background : #EEEEEE;
+    
+    }
+    
+    .welcomePage{
+    
+      background: linear-gradient(to right , #3480B1 ,#286287);
+      min-height: 100vh;
+    }
+    
+    hr {
+      height: 1px;
+      background-color: black;
+      border: none;
+      
+    }
